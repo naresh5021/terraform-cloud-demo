@@ -1,4 +1,4 @@
 resource "aws_s3_bucket" "terraform-state" {
-  bucket = "terraform-s3-bucket-state-filew335esdffdgdfg"
+  bucket = "terraform-s3-bucket-state-file_JNK"
 
 }
